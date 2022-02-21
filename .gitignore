@@ -1,0 +1,9 @@
+target/*
+.settings/*
+bin
+.classpath
+/target/
+bin
+*.sh
+*.bak
+*.graphml
